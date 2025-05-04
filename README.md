@@ -5,3 +5,6 @@ color theme for emacs
 
 ![color theme for 4coder](media/color_theme_4coder.png)
 color theme for 4coder
+
+![color theme for focus](media/color_theme_focus.png)
+color theme for focus
